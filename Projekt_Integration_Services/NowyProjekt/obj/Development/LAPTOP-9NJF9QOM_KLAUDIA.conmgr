@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-9NJF9QOM_KLAUDIA"
+  DTS:DTSID="{F3BD4EC4-A258-44E4-AEC9-56FEFCC80880}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LAPTOP-9NJF9QOM\KLAUDIA;Initial Catalog=NowaHurtownia;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-NowyProjekt-{F3BD4EC4-A258-44E4-AEC9-56FEFCC80880}LAPTOP-9NJF9QOM\KLAUDIA;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
