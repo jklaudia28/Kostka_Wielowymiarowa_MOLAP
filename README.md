@@ -1,7 +1,7 @@
 # Model wielowymiarowy
 
 Z danych z pliku csv utworzyłam model wielowymiarowy w OLAP (tabela z miarami - tabela faktów, do niej dopięte tabele wymiarów).
-Następnie za pomocą Analysis Services dodałam klucze główne i stworzylam relacje pomiędzy tabelami oraz wygenerowałam kostkę wielomiarową.
+Następnie za pomocą Analysis Services dodałam klucze główne i stworzyłam relacje pomiędzy tabelami oraz wygenerowałam kostkę wielowymiarową.
 
 
 Zawartość projektu:
