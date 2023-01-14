@@ -9,5 +9,5 @@ Zawartość projektu:
 - Projekt Analysis Services -> przetworzona struktura wielowymiarowa w kostkę MOLAP
 
 Wykorzystano:
-- Visual Studio
+- Visual Studio 2019
 - SQL
