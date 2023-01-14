@@ -7,3 +7,7 @@ Następnie za pomocą Analysis Services dodałam klucze główne i stworzylam re
 Zawartość projektu:
 - Projekt Integration Services -> pakiety ładujące dane i przekształcające je na model wielowymiarowy (tabela faktów + tabele wymiarów)
 - Projekt Analysis Services -> przetworzona struktura wielowymiarowa w kostkę MOLAP
+
+Wykorzystano:
+- Visual Studio
+- SQL
