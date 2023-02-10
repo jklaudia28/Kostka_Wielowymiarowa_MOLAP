@@ -10,4 +10,4 @@ Zawartość projektu:
 
 Wykorzystano:
 - Visual Studio 2019
-- SQL
+- Microsoft SQL Server
